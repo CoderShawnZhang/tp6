@@ -1,0 +1,16 @@
+{
+    "name": "zhanghongbo/think-ef",
+    "authors": [
+        {
+            "name": "shawn",
+            "email": "taobao1875@163.com"
+        }
+    ],
+    "autoload": {
+        "files": [],
+        "psr-4": {
+            "think\\": "src/think/"
+        }
+    },
+    "require": {}
+}
